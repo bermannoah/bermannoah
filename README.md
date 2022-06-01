@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![hey! i'm bermannoah](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=&text=hey%21%2520i%27m%2520bermannoah)]
 <!--
 **bermannoah/bermannoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
