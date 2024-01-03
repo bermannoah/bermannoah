@@ -1,5 +1,7 @@
 `<marquee>hey! i'm bermannoah</marquee>`
 
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
+
 <!--
 **bermannoah/bermannoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
